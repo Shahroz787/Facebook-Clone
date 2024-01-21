@@ -1,0 +1,34 @@
+.app-container {
+  display: flex;
+
+
+}
+
+.content {
+  width: 100%;
+}
+
+.slidebar {
+  min-height: 200px;
+}
+
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+
+.post-card {
+  margin: 20px 50px;
+}
+
+.cardd {
+  width: calc(33.33% - 16px);
+
+  margin-bottom: 16px;
+
+}
+
+.spinner {
+  margin: 10% 0;
+}
